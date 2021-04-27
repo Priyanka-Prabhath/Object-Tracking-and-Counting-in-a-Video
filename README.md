@@ -4,7 +4,8 @@ Two different methods are implemented.
 Technologies Used: Python, OpenCV, Density based Clustering, Convolutions, Numpy, Matplotlib.
 
 # Method 1:
-Using Density based clustering to count moving objects.
+Using Density based clustering to count moving objects in a trafiic based video.
+*hfghjegfhe
 
 # Method 2:
 Using convolutions to count moving objects.
